@@ -52,7 +52,7 @@ public class Adres implements Serializable {
     @Column(name = "ADRES")
     private String adres;
 
-   x
+   
 
     public Long getId() {
         return id;
